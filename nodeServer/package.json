@@ -1,0 +1,14 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is application of real time chating ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amrat Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.6.0"
+  }
+}
